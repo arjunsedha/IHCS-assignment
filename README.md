@@ -79,7 +79,7 @@ Even ignoring the antivax movement, Australia still have many problems to solve 
 ##### illustration
 ![image](https://user-images.githubusercontent.com/79890509/115876174-56488480-a489-11eb-86df-bc1af8ec6ead.png)
 ##### Required data sources
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Estimated cost of transport between points of interest. 
+* Estimated cost of transport between points of interest. 
 
 ### Summary
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; These models aid us in attempting to determine the ‘best’ way to ensure the most efficient vaccine rollout in Australia. However, there is room to enhance these systems breaking their system boundaries. Furthermore, it is crucial to understand that no one model represents the ‘best’ possible outcome. Instead, an integration of the three models is required to form a holistic hybrid system that brings the government closer to its goal. A major point to consider when viewing these models is that they all assume an abundance of vaccines which may be the case in reality. 
