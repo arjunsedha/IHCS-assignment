@@ -10,7 +10,7 @@ There has been increasing importance on the role of vaccines and their ability t
 - https://www.cnbc.com/2021/04/19/covid-chiles-coronavirus-cases-hit-record-levels-despite-vaccine-rollout.html
 - https://www.theguardian.com/society/2021/apr/15/vaccine-chart-toppers-what-australia-can-learn-from-worlds-best-rollouts
 
-###2.2. Stakeholders
+### 2.2. Stakeholders
 COVID-19 vaccination rollout programs/systems have differed by country to country, depending on the various circumstances of each. However, in Australia's, case the rollout of a vaccine has been unsuccessful. With PM Scott Morrisson abandoning the national vaccine rollout program on the 12th of April (ABC News, 2021). Thus, causing various elements of the media, academia, and government to look for alternative solutions for an effective vaccine rollout.  
 
 The media is addressing the problem by analyising other vaccine rollout, to see what Australia can learn from them, while also using the opinion of various Australian medical professionals in industry. From example the Guardian published an article listing the best vaccine rollout programs from the world and suggested how Australia can learn from them. While other outlets recognize the problem more as one, which is putting frontline workers at risk (Mirage, 2021)
