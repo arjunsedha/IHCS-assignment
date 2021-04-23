@@ -76,9 +76,7 @@ Even ignoring the antivax movement, Australia still have many problems to solve 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Each node represents the geographical location of clinics, hospitals and any other place where vaccine administration is to take place. Between these nodes will exist many possible links. As such these links are given values that represent cost of transportation between nodes. As such a program will be able to determine the most cost-efficient transport model for the vaccine across Australia. 
 
 ##### illustration
-<p align="center">
-![image](https://user-images.githubusercontent.com/79890509/115875694-d1f60180-a488-11eb-9514-e75715ca1a4b.png)
-</p>
+![image](https://user-images.githubusercontent.com/79890509/115875942-17b2ca00-a489-11eb-8f99-ab5de28ee102.png)
 
 ##### Required data sources
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Estimated cost of transport between points of interest. 
