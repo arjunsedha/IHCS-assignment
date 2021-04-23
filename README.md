@@ -77,7 +77,7 @@ Even ignoring the antivax movement, Australia still have many problems to solve 
 
 ##### illustration
 <p align="center">
-  <img width="460" height="300" src="![image](https://user-images.githubusercontent.com/79890509/115875694-d1f60180-a488-11eb-9514-e75715ca1a4b.png)">
+![image](https://user-images.githubusercontent.com/79890509/115875694-d1f60180-a488-11eb-9514-e75715ca1a4b.png)
 </p>
 
 ##### Required data sources
