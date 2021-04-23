@@ -26,6 +26,13 @@ The Continuous signalling model, employed by political figures to battle the ant
 
 Even ignoring the antivax movement, Australia still have many problems to solve in order to reach its target of 200,000 doses-a-day by October. Due to international politics, logistical errors, lack of transparency, and a whole host of other problems, Australia has been slow in delivering vaccine to its citizens. Despite CSL, the local manufacturer of AstraZeneca COVID-19 vaccine, ramping up its production capacity, supply has not met demand. Experts have identified manufacturing capabilities as the main bottleneck to immunizing Australians (Sas, 2021).
 
+### 3.1 Three Models
+#### Agent-based Model
+Agent-Based modelling simulates the interactions of “agents” towards other agents and their environment which they are set in, with the consideration of the rules applied to its environment. It allows for the modelling of individual interactions and its often limitless, hence, its fundamental use in understanding complex systems. These models assist in the understanding of different properties and behaviours of agents within dynamic systems (Bonabeau, 2002) and offers a strong representation of real-world situations.  Regarding the COVID-19 vaccines, this model enables for the focus of the efficiency on rollout methods and the dynamic relationships of individuals complex behaviours (Shan & Yang, 2008). 
+#### Alternate path models provide an insight on different pathways a process can be carried out to which the most optimal path is chosen. Shortest path algorithms must be calculated which include the logistics of transporting the vaccines to health professionals, then to unvaccinated individuals.  Different pathways will be considered however in the circumstance of COVID-19 and its fast transmission, it is evident that the speed optimisation holds the most importance.   
+#### Network Model
+Simiar to alternate path models, the cheapest network model will also provide extremely useful in vaccine rollouts and their costs. This includes the costs that apply to the government and individuals. This will further find the most optimal pathway that reduces the overall cost of administering the vaccines. 
+
 ### 3.2 & 3.2 Suggested models
 #### Agent-Based Modelling
 ##### Definition
