@@ -57,7 +57,7 @@ Simiar to alternate path models, the cheapest network model will also provide ex
 
 #### Alternate Path model
 ##### Definition
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; This model is similar to ABM in that it will be a network like system. However, the agents within the network will not be subject to ranking through their traits. Instead, only one trait will be considered and the links between these agents. 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; This model will serves the purpose of calculating the the relative speeds between pathways to detrmine the quickest one. It is a Network based system in which values are assigned to nodes and links.
 
 ##### Premise
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; To find the fastest way to administer the vaccine to the nation of Australia. This would imply that the safest way to rid Austria would be the quickest administration of the vaccine. 
