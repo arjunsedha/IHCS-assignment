@@ -28,17 +28,17 @@ Even ignoring the antivax movement, Australia still have many problems to solve 
 
 ## 3. Alternative models
 ### 3.1. Three Models
-#### Agent-based Model
-Agent-Based modelling simulates the interactions of “agents” towards other agents and their environment which they are set in, with the consideration of the rules applied to its environment. It allows for the modelling of individual interactions and its often limitless, hence, its fundamental use in understanding complex systems. These models assist in the understanding of different properties and behaviours of agents within dynamic systems (Bonabeau, 2002) and offers a strong representation of real-world situations.  Regarding the COVID-19 vaccines, this model enables for the focus of the efficiency on rollout methods and the dynamic relationships of individuals complex behaviours (Shan & Yang, 2008). 
+#### Group-based Model
+Group-Based modelling simulates the interactions of 'elements' towards each other and their environment which they are set in, with the consideration of the rules applied to its environment. It allows for the modelling of individual interactions and its often limitless, hence, its fundamental use in understanding complex systems. These models assist in the understanding of different properties and behaviours between different groups within dynamic systems (Bonabeau, 2002) and offers a strong representation of real-world situations.  Regarding the COVID-19 vaccines, this model enables for the focus of the efficiency on rollout methods and the dynamic relationships of individuals complex behaviours (Shan & Yang, 2008). 
 #### Alternate Path Model 
 Alternate path models provide an insight on different pathways a process can be carried out to which the most optimal path is chosen. Shortest path algorithms must be calculated which include the logistics of transporting the vaccines to health professionals, then to unvaccinated individuals.  Different pathways will be considered however in the circumstance of COVID-19 and its fast transmission, it is evident that the speed optimisation holds the most importance.   
 #### Network Model
 Simiar to alternate path models, the cheapest network model will also provide extremely useful in vaccine rollouts and their costs. This includes the costs that apply to the government and individuals. This will further find the most optimal pathway that reduces the overall cost of administering the vaccines. 
 
 ### 3.2. Suggested models
-#### Agent-Based Modelling
+#### Group-Based Modelling
 ##### Definition
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Agent-Based Modelling follows the process of identifying all the various categories of characters within the system. This allows the system thinker to compare differing traits of these characters and depending on their goal, the system analyser can view any issues regarding the link between agents. As such, the system modeler can reposition the links between characters to form the most beneficial system 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Agent-Based Modelling follows the process of identifying all the various categories of characters within the system. This allows the system thinker to compare differing traits of these characters and depending on their goal, the system analyser can view any issues regarding the link between components. As such, the system modeler can reposition the links between characters to form the most beneficial system 
 
 ##### Premise
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; The premise behind applying an ABM to successfully analyse the rollout of the COVID-19 vaccine is to create a ranking of importance that puts those most at risk of spreading the virus on top and the least at the bottom. This would imply that the safest way to roll out the vaccine is to ensure the minimalization of the virus and protect the health of the Australian community. 
