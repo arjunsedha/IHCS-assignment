@@ -1,8 +1,10 @@
-# PyGraphArt
+# Graph tool
 
-I wrote this code some time ago with the purpose of learning graph algorithms while enjoying it, through the creation of animated images that show how different graph algorithms work. 
+This Code has been sourced from members of the Github Cummunity and modified for our purposes
 
-So through this code you can do something as follows.
+## Abstract
+Upon running various algorithims, the prime subject of debate is which parameters allow sufficient data. For the traversal algorithim, We were unable to supply desired variability due to time constraints and the complexity of our system. 
+The final understanding of how a traversal graph will operate is through the admition of the nearest/shortest path based on the decision matrix of the delivery article. Thus eliminating any presuppositions of irrational motivations upon vaccine delivery. 
 
 ## [Breadth-First Traversal](https://en.wikipedia.org/wiki/Breadth-first_search)
 
