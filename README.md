@@ -110,3 +110,11 @@ Bonabeau, E. (2002). Agent-based modeling: Methods and techniques for simulating
 Shan, Y., & Yang, A. (2008). Applications of Complex Adaptive Systems (IGI Publishing).
 
 Optimal control strategy for a discrete time epidemic models of mycobacterium tuberculosis infections. (2020). https://doi.org/10.28919/cmbn/4328 
+
+## Setup for covid Graph tool
+- Install Anaconda 
+- Install Python 
+- setup enviornment
+- conda install pycairo
+- conda install colour
+- run main.py
