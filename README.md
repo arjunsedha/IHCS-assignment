@@ -38,22 +38,22 @@ Alternate path models provide an insight on different pathways a process can be 
 Simiar to alternate path models, the cheapest network model will also provide extremely useful in vaccine rollouts and their costs. This includes the costs that apply to the government and individuals. This will further find the most optimal pathway that reduces the overall cost of administering the vaccines. 
 
 ### 3.2. Suggested models
-#### Group-Based Modelling
+#### SIR Model
 ##### Definition
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Agent-Based Modelling follows the process of identifying all the various categories of characters within the system. This allows the system thinker to compare differing traits of these characters and depending on their goal, the system analyser can view any issues regarding the link between components. As such, the system modeler can reposition the links between characters to form the most beneficial system 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; The SIR model aims to illustrate the number of individuals within a closed population that have either been infected, recovered from infection or are susceptible to infection to which the users are ale to make inferences on the behaviour of a disease. 
 
 ##### Premise
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; The premise behind applying an ABM to successfully analyse the rollout of the COVID-19 vaccine is to create a ranking of importance that puts those most at risk of spreading the virus on top and the least at the bottom. This would imply that the safest way to roll out the vaccine is to ensure the minimalization of the virus and protect the health of the Australian community. 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; The premise of this model is to understand the behaviour of the disease and how the individuals within a population are affected, and how they reacted to it. This is so we can identify any significant behaviours that affect the pandemic outcomes and implement the appropriate strategies in regard to vaccination rollouts. 
+ 
 
 ##### Application
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; The application of ABM is dependent on 3 major factors. The first 1st is to define who the agents are. In our scenario we will define our agents as the generalised identity of a communal character from any and all sectors of society. This would mean one agent could be the representative nurse, a nurse of all nurses, where another could be the representative trucker. The way these identities will be defined is the 2nd major factor of an ABM. It occurs by first specifying a list of traits that are relevant to our problem but also round enough to provide scope in identity analysis.  An example would be an estimate of their likelihood of contracting the virus on a scale of one to ten where ten means they are certain to contract the virus. Identifying agents in this manner creates a system flaw where the model can only see generalisations, and such will not be able to view an entire country with any accuracy. As such it is valid to create the system boundary that each ABM (there will be many) is specific to each city or council district. This will restrict the variation of these agent identities and increase their accuracy. There must also be a ranking of traits, as decides which agents should be more prioritised for the vaccine. Between these agents there will be links that connect them one and other. The “strength” of each link is dependent on the frequency of contact between the agents. This measurement will allow bad links (links between those with a low chance of survival, and those that are highly susceptible) to be prioritised in rollout procedures minimising risk. This entire system allows the system analyser to see which agents are the most ‘influential’ and create the order in which the vaccines should be administered among agents. 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Using this model will require a few assumptions: The rate of increase in the infected is proportional between the contact between the susceptible and infected, and the assumption that the recovery/fatality rates are also constant. The application of this model will also involve a certain closed population that will be categorized in their respective groups according to their disease status (Susceptible, infected, or recovered). An individual can only be in one category at a time. 
 
-##### Illustration
-![image](https://user-images.githubusercontent.com/79890509/115875942-17b2ca00-a489-11eb-8f99-ab5de28ee102.png)
 ##### Required data sources
 * The population of each district and city.
-* Occupation populations within districts and cities.
-* An approximation of how often agents come in contact within each district or city.
+* COVID data sets
+* Initial number of infected individuals
+* Contact, mortality and recovery rate
 
 ---
 
